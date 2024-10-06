@@ -25,18 +25,20 @@ GenEarth is a comprehensive platform addressing gender inequality and climate ch
 
 Follow these steps to set up the project locally:
 
-1. Clone the repository:
+1. Clone the repository and **extract it** :
+   
    ```bash
-   git clone https://github.com/Mihir2602/GenEarth.git
-   cd genearth
+   git clone https://github.com/Mihir2602/GenEarth.git 
+   cd genearth 
+   
    ```
 
-2. Install dependencies:
+3. Install dependencies:
    ```bash
    npm install
    ```
 
-3. Start the development server:
+4. Start the development server:
    ```bash
    npm start
    ```
